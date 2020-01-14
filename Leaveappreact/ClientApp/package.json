@@ -7,7 +7,7 @@
     "@microsoft/teams-js": "^1.5.2",
     "axios": "^0.19.1",
     "bootstrap": "^4.4.1",
-    "jquery": "3.3.1",
+    "jquery": "3.4.0",
     "msteams-ui-components-react": "^0.8.4",
     "msteams-ui-icons-react": "^0.4.2",
     "react": "^16.0.0",
